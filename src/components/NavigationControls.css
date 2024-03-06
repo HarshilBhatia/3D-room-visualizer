@@ -1,0 +1,21 @@
+
+  
+.arrowButton {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+  
+  .arrowButton:hover {
+    background-color: transparent !important;
+  }
+  
+  .arrowButton:focus {
+    outline: none !important;
+  }
+  
+  /* Increase the size of the icons */
+  .arrowIcon {
+    font-size: 2rem !important; /* Adjust size as needed */
+  }
+  
